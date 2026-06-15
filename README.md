@@ -6,7 +6,7 @@ A backend REST API that shortens URLs and tracks click analytics.
 
 - Python
 - FastAPI
-- PostgreSQL
+- SQLite
 - SQLAlchemy
 - Pydantic
 
